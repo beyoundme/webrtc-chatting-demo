@@ -1,0 +1,3 @@
+rtsp1=rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov
+rtsp2=rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov
+rtsp3=rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov

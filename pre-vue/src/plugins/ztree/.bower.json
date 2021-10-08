@@ -1,0 +1,16 @@
+{
+  "name": "ztree",
+  "description": "zTree is based jquery, is very powerful",
+  "version": "3.5.0",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "main": [
+    "js/jquery.ztree.core-3.5.js",
+    "css/zTreeStyle/zTreeStyle.css"
+  ],
+  "_source": "nexus+http://192.168.100.133:8081/repository/fxbower/ztree",
+  "_target": "^3.5.0",
+  "_release": "3.5.0",
+  "_originalSource": "ztree"
+}
