@@ -1,8 +1,10 @@
 # SUMMARY
-    简书 NonTalk也是我的号，感谢支持。
     此项目是本人以java开发的角度，一步步学习，尝试后，构建的一套基于webrtc的视频播放，呼叫系统。
+    
     由于在c++知识上的短缺，在调研可用的媒体服务上花费了大量的时间；
+    
     前端方面也是从实现功能的角度出发，整体前端代码构筑会比较凌乱。希望对开发相关项目的朋友们有启发作用。
+#   简书 NonTalk也是我的号，感谢支持。
 # 项目框架
 ![图片名称](https://github.com/beyoundme/webrtc-chatting-demo/blob/master/window.png) 
 # 项目综述
